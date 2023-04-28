@@ -1,19 +1,18 @@
-# classifier-models
-Data classifiers and exploratory data analysis applied to the Enem 2021 dataset.
+# ENEM 2021 - Classificação de desempenho em matemática
 
-*The data classifiers models used were:*
+Este repositório contém o projeto desenvolvido com o objetivo de utilizar modelos de aprendizado de máquina para classificar o desempenho em matemática dos estudantes que realizaram o ENEM 2021, através de seus dados socioeconômicos. Para isso, utilizamos a base de microdados do ENEM 2021, disponibilizada pelo Governo Federal do Brasil.
 
-- Naive Bayes;
-- KNN;
-- Random Forest;
-- Logistic Regression;
-- Decision Tree
+## Ferramentas utilizadas
+Pandas
+GeoPandas
+Numpy
+Scikit-learn
+Matplotlib
+Seaborn
 
-*Tools used to help in the project development:*
-
-- Pandas;
-- GeoPandas;
-- Numpy;
-- Scikit learn;
-- Matplotlib;
-- Seaborn
+## Modelos de classificação utilizados
+Naive Bayes
+KNN
+Random Forest
+Logistic Regression
+Decision Tree
